@@ -23,8 +23,13 @@ The configuration of this CNN is:
 We got an accuracy of around 66% with this configuration.
 
 An example of a picture for training set is below and the conditions of the picture are not good, so it might confuse the algorithm. 
-<img src="https://github.com/amyoshino/Identifying-Brazilin-Coins-with-CNN/blob/master/50_cents.jpg" width="400">  <img src="https://github.com/amyoshino/Identifying-Brazilin-Coins-with-CNN/blob/master/1_real.jpg" width="400">
+<img src="https://github.com/amyoshino/Identifying-Brazilin-Coins-with-CNN/blob/master/50_cents.jpg" width="300">  
+<img src="https://github.com/amyoshino/Identifying-Brazilin-Coins-with-CNN/blob/master/1_real.jpg" width="300">
+
+The ground truth test is to use different views of the coin, bigger ones and different angles. Example of coins used to this purpose is below.
+<img src="https://github.com/amyoshino/Identifying-Brazilin-Coins-with-CNN/blob/master/Coins_to_test/moeda025.jpg" width="300">
+<img src="https://github.com/amyoshino/Identifying-Brazilin-Coins-with-CNN/blob/master/Coins_to_test/moeda100.jpg" width="300">
 
 
-Tuning (adding more layers or changing hyperparameters) better this model can definitely improve the results.
+In the ground truth test, 3 out of 5 coins were correctly rocognized. Tuning (adding more layers or changing hyperparameters) better this model might improve the results.
 
