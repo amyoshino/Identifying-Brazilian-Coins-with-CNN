@@ -23,8 +23,9 @@ The configuration of this CNN is:
 We got an accuracy of around 66% with this configuration.
 
 An example of a picture for training set is below and the conditions of the picture are not good, so it might confuse the algorithm. 
-<img src="https://github.com/amyoshino/Identifying-Brazilin-Coins-with-CNN/blob/master/50_cents.jpg" width="250">  
+
 <img src="https://github.com/amyoshino/Identifying-Brazilin-Coins-with-CNN/blob/master/1_real.jpg" width="250">
+<img src="https://github.com/amyoshino/Identifying-Brazilin-Coins-with-CNN/blob/master/50_cents.jpg" width="250">  
 
 The ground truth test is to use different views of the coin, bigger ones and different angles. Example of coins used to this purpose is below.
 <img src="https://github.com/amyoshino/Identifying-Brazilin-Coins-with-CNN/blob/master/Coins_to_test/moeda025.jpg" width="300">
