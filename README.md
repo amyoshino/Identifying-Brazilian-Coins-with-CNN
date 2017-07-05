@@ -18,4 +18,13 @@ The configuration of this CNN is:
 - Learning rate of 0.001
 - Optimizer = "Adam"
 
-The results as we will see are acceptable. Tuning (adding more layers or changing hyperparameters) better this model can definitely improve the results.
+
+### Results
+We got an accuracy of around 66% with this configuration.
+
+An example of a picture for training set is below and the conditions of the picture are not good, so it might confuse the algorithm. 
+<img src="https://github.com/amyoshino/Identifying-Brazilin-Coins-with-CNN/blob/master/50_cents.jpg" width="400"> <img src="https://github.com/amyoshino/Identifying-Brazilin-Coins-with-CNN/blob/master/1_real.jpg.png" width="400">
+
+
+Tuning (adding more layers or changing hyperparameters) better this model can definitely improve the results.
+
