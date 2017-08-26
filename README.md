@@ -31,5 +31,5 @@ The ground truth test is to use different views of the coin, bigger ones and dif
 <img src="https://github.com/amyoshino/Identifying-Brazilin-Coins-with-CNN/blob/master/Coins_to_test/moeda025.jpg" width="300">   <img src="https://github.com/amyoshino/Identifying-Brazilin-Coins-with-CNN/blob/master/Coins_to_test/moeda100.jpg" width="300">
 
 
-In the ground truth test, 3 out of 5 coins were correctly rocognized. Tuning (adding more layers or changing hyperparameters) better this model might improve the results.
+In the ground truth test, 3 out of 5 coins were correctly recognized. Tuning (adding more layers or changing hyperparameters) better this model might improve the results.
 
